@@ -1,8 +1,8 @@
-# Quiz Board
+# Name Validation
 
 ##### By Brian Jomo 
 
-### It is a description of  a test taking website.
+### It is a description of  a name validation website.
 
 ## Table of Content
 
