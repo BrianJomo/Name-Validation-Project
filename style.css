@@ -8,7 +8,7 @@
 .Top{
 	height: 115vh;
 	width: 100%;
-	background-image: url(../Images/Ghana.jpg);
+	background: linear-gradient(90deg, rgba(255,255,255,1) 15%, rgba(128,128,128,1) 42%, rgba(0,0,0,1) 100%);
 	background-size: cover;
 	background-position: center;
 }
@@ -70,7 +70,7 @@ h1{
 }
 h3{
 	color: #343434;
-	font-size: 25px;
+	font-size: 20px;
 	margin-bottom: 50px;
 }
 h4{
