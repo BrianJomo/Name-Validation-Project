@@ -74,3 +74,16 @@
             fashion model Adwoa Caitlin Maria Aboah is Monday-born. <a href="https://en.wikipedia.org/wiki/Ghanaian_name" target="_blank">Learn More</a> </h3>  
         </div>
         </div>
+    
+        <form id="Form">
+          <label class="one">DATE OF BIRTH</labe>
+          <input type="number" id="Day" placeholder="Enter Date of Birth" max="31" min="1"><br><br>
+          <label>MONTH OF BIRTH</label>
+          <input type="number" id="Month" placeholder="Enter Month of Birth (e.g 12 for December)" max="12" min="1" size="100px"><br><br>
+          <label>YEAR OF BIRTH</label>
+          <input type="number" id="Year" placeholder="Enter Year of Birth" max="2100" min="1900"><br><br>
+          <label>GENDER</label>
+          <input type="radio" name="gender" id="Man" value="male"> Male
+          <input type="radio" name="gender" id="Woman" value="female"> Female<br><br>
+          <input type="submit" value="SUBMIT" class="btn btn-success" onclick="calc()">
+      </form>
