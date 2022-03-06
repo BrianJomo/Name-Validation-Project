@@ -35,3 +35,28 @@ if (MM < 1 || MM > 12 || MM == 2 && DD > 29) {
   alert("PLEASE INSERT A VALID DAY");
 }
 
+
+if (female) {
+  if (output == 1) {
+    document.getElementById("output").innerHTML =
+    alert("Hey Missy!! You were born on a Monday, you're  Akan name is " + femalenames[1]);
+} else if (output == 2) {
+  document.getElementById("output").innerHTML =
+    alert("Hey Missy!! You were born on a Tuesday, you're  Akan name is " + femalenames[2]);
+} else if (output == 3) {
+  document.getElementById("output").innerHTML =
+    alert("Hey Missy!! You were born on a Wednesday, you're  Akan name is " + femalenames[3]);
+} else if (output == 4) {
+  document.getElementById("output").innerHTML =
+    alert("Hey Missy!! You were born on a Thursday, you're  Akan name is " + femalenames[4]);
+} else if (output == 5) {
+  document.getElementById("output").innerHTML =
+    alert("Hey Missy!! You were born on a Friday, you're  Akan name is " + femalenames[5]);
+} else if (output == 6) {
+  document.getElementById("output").innerHTML =
+    alert("Hey Missy!! You were born on a Saturday, you're  Akan name is " + femalenames[6]);
+} else if (output == 0) {
+  document.getElementById("output").innerHTML =
+    alert("Hey Missy!! You were born on a Sunday, you're  Akan name is " + femalenames[0]);
+}
+}
