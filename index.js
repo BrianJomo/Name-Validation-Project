@@ -89,3 +89,16 @@ else if (male) {
 alert("PLEASE INSERT YOUR DETAILS BELOW!");
 }
 }
+    
+
+
+$(document).ready(function () {
+
+$('#Form').submit(function (b) {
+
+  
+  b.refreshPage();
+
+});
+});
+
