@@ -19,7 +19,7 @@
 
 ## Installation
 
-To gain acess to this website click on this link: 
+To gain acess to this website click on this link: https://brianjomo.github.io/Name-Validation-Project/
 
 ### Requirements
 
@@ -29,7 +29,7 @@ To gain acess to this website click on this link:
 
 ### Installation Process
 
-To have access to this website you will have to click on this link:  then you will immediately be directed to the website and explore its features.
+To have access to this website you will have to click on this link: https://brianjomo.github.io/Name-Validation-Project/ then you will immediately be directed to the website and explore its features.
 
 ## Technology Used
 
@@ -37,7 +37,7 @@ To have access to this website you will have to click on this link:  then you w
 
 * CSS - which was used to style the web pages.
 
-* JavaScript - Which was used to make the web pages interactive with the client-side and       server-side, and provide accurate feedback as required by the clients.
+* JavaScript - Which was used to make the web pages interactive with the client-side and server-side, and provide accurate feedback as required by the clients.
 
 ## Reference
 
