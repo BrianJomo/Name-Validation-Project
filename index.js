@@ -24,7 +24,8 @@ if (MM < 1 || MM > 12 || MM == 2 && DD > 29) {
   alert("PLEASE INSERT A VALID DAY");
 }
 
-
+<!-- Female function -->
+  
 if (female) {
   if (output == 1) {
     document.getElementById("output").innerHTML =
@@ -50,6 +51,7 @@ if (female) {
 }
 }
 
+  <!-- Male function -->
 
 else if (male) {
   if (output == 1) {
