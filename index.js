@@ -85,7 +85,7 @@ $(document).ready(function () {
 
 $('#Form').submit(function (a) {
   
-  a.refreshPage();
+  a.refresh();
 
 });
 });
