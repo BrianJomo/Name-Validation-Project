@@ -83,10 +83,9 @@ alert("INVALID INPUT,PLEASE INSERT YOUR DETAILS BELOW!");
 
 $(document).ready(function () {
 
-$('#Form').submit(function (b) {
-
+$('#Form').submit(function (a) {
   
-  b.refreshPage();
+  a.refreshPage();
 
 });
 });
