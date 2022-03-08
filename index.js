@@ -81,6 +81,7 @@ alert("INVALID INPUT,PLEASE INSERT YOUR DETAILS BELOW!");
 }
 }  
 
+<!--Funtion extension-->
 
 (document).ready(function () {
 
