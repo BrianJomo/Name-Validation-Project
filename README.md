@@ -69,6 +69,6 @@ SOFTWARE.
 
 ## Authors Info
 
-Email - Brianofficial39@gmail.com
+-   Email- [Brian Jomo](mailto:Brianofficial39@gmail.com)
+-   Linkedin - [Brian Jomo](https://www.linkedin.com/in/brian-jomo/)
 
-Linked -www.linkedin.com/in/brian-jomo
